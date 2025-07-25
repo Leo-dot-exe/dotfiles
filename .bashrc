@@ -35,3 +35,6 @@ alias wallreload='pkill hyprpaper && systemctl --user restart hyprpaper'
 
 # PATH
 export PATH="$HOME/.cargo/bin:$PATH"
+
+#for starship -Terminal prompt
+eval "$(starship init bash)"
