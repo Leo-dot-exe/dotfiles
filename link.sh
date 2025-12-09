@@ -69,5 +69,4 @@ if [ -n "$SECTION" ]; then
             ;;
     esac
 fi
-fi
 
