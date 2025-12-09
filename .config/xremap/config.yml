@@ -1,4 +1,0 @@
-modmap:
-  - name: main remaps
-    remap:
-      KEY_CAPSLOCK: SUPER_L

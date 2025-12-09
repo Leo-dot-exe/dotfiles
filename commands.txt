@@ -1,0 +1,9 @@
+echo BE CAREFULL
+ln -f ~/Dev/dotfiles/.tmux.conf ~/.tmux.conf
+ln -f ~/Dev/dotfiles/.bashrc ~/.bashrc
+ln -f ~/Dev/dotfiles/.config/starship.toml ~/.config/starship.toml
+ln -sf ~/Dev/dotfiles/.config/ghostty ~/.config/ghostty
+ln -sf ~/Dev/dotfiles/.config/hypr ~/.config/hypr
+ln -sf ~/Dev/dotfiles/.config/rofi ~/.config/rofi
+ln -sf ~/Dev/dotfiles/.config/waybar ~/.config/waybar
+ln -sf ~/Dev/dotfiles/.config/nvim ~/.config/nvim
